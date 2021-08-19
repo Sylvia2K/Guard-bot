@@ -1,0 +1,29 @@
+{
+
+    "Server": {
+        "Id": "876935215166140426"
+    },
+
+    "Roles": {
+        "Jail_Role": "877638670490959872",
+        "Booster_Role": "877144447954075649"
+    },
+
+    "Channels": {
+        "Channel_Log": "877639130346053632",
+        "Role_Log": "877639307400212490",
+        "Other_Log": "877639358327447552",
+        "Right_Click": "877639420264742912"    
+    },
+
+    "Emojis": {
+        "Check": "✔️",
+        "Delete": "❌"
+    },
+
+    "Embed": {
+        "Color": "RANDOM",
+        "Footer": "Astlevania #KAPALI ❤",
+        "Timeout": 10000
+    }
+}
